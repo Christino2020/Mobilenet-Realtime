@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    background-size:cover;
+    box-shadow: 5px 5px 18px blue;
+}
+.h2_header{
+    text-align: center;
+    font-size:xx-large;
+    font-style: italic;
+    font-variant: small-caps;
+    color:coral;
+    margin:0;
+    box-shadow: 5px 5px 18px white;
+    width:60%;
+    font-weight: bold;
+
+}
+ .header_div_2{
+    margin-left:1px;
+    font-weight: bold;
+    box-shadow: 5px 5px 18px white;
+    font-size: larger;
+}
+.header_div{
+    margin-left:200px;
+    font-size: x-large;
+    font-weight: bold;
+    box-shadow: 5px 5px 18px white;
+    
+}
+.p{
+    font-size:larger;
+    font-weight: 500;
+    font-variant: unset;
+    font-style: oblique;
+    box-shadow: 5px 5px 18px white;
+}
+canvas{
+    box-shadow: 5px 5px 18px grey;
+    margin-top:110px;
+    border:indigo;
+    border-radius:12px;
+}
